@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 .idea/.idea.TowerDefense-Project.dir/.idea/
+
+TowerDefense/.idea/.idea.TowerDefense/.idea/
